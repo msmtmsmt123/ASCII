@@ -2,5 +2,5 @@
     "title": "BrainF",
     "description": "Parses [a certain esoteric language](https://esolangs.org/wiki/Brainfuck).",
     "author": "LyricLy",
-    "link": "https://raw.githubusercontent.com/LyricLy/Lyric-Selfbot-Cogs/master/bf.py"
+    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/custom_cogs/bf.py"
 }
